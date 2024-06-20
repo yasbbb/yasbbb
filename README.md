@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasbbb">
+<img src="https://github-stats-alpha.vercel.app/api?username=yasbbb&cc=0000000&tc=FFFFFF&ic=fff&bc=0000">
  
  yash.bardhan09@gmail.com | www.linkedin.com/in/yashbardhan09 | https://yashbardhan.com
 </div>
